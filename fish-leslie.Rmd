@@ -8,6 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 git update
+update on RStudio
 
 ## Overview
 
